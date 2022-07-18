@@ -5,3 +5,13 @@
 Just my little plot of digital acreage on the world wide web.
 
 [troyharvey.com](https://troyharvey.com)
+
+## Quickstart
+
+1. Install packages.
+
+        npm install
+
+1. Start the eleventy server.
+
+        npx @11ty/eleventy --serve
